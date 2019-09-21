@@ -1,4 +1,6 @@
 flask
 flask_session
-gunicorn
 sqlalchemy
+
+gevent
+gunicorn
