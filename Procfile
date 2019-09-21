@@ -1,1 +1,1 @@
-web: gunicorn konikal:app
+web: gunicorn app:app
