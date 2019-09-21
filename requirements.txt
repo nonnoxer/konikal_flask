@@ -1,5 +1,6 @@
 flask
 flask_session
+psycopg2
 sqlalchemy
 
 gunicorn
