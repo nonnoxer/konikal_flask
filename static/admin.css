@@ -1,0 +1,40 @@
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  height: 100%;
+}
+article {
+  min-height: 80%;
+}
+footer {
+  text-align: center;
+  min-height: 10%;
+  background-color: #dfdfdf;
+}
+header {
+  min-height: 20%;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+button {
+  background-color: white;
+  border: 1px solid black;
+  padding: 4px;
+}
+.white {
+  color: white;
+}
+.red {
+  color: red;
+}
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}
+span .right {
+  float: right;
+}
