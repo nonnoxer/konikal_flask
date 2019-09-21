@@ -1,1 +1,1 @@
-web: gunicorn konikal.wsgi
+web: gunicorn konikal:app
